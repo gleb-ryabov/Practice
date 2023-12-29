@@ -17,3 +17,11 @@
 # PHP. MVC.
 
 Ссылка на репозиторий: https://github.com/gleb-ryabov/mvc.git
+
+# Laravel. Социльная сеть.
+
+Ссылка на репозиторий: https://github.com/gleb-ryabov/social_network.git
+
+# Laravel. Библиотека.
+
+Ссылка на репозиторий: https://github.com/gleb-ryabov/library.git
